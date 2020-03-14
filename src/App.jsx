@@ -1,20 +1,22 @@
 import React, { Component } from "react";
-import Cookies from "js-cookie";
 import Axios from "axios";
 
 import NavBar from "./NavBar";
 import Content from "./Content";
+
+
+const localStorage = require("local-storage");
 
 class App extends Component {
   state = {
     loggedIn: this.checkedLoggedIn()
   };
 
-  handleLogIn = (email, session_id) => {
+  handleLogin = (email, session_id) => {
     const { common } = Axios.defaults.headers;
 
-    Cookies.set("email", email);
-    Cookies.set("session_id", session_id);
+    localStorage.set("email", email)
+    localStorage.set("session_id", session_id)
 
     common["email"] = email;
     common["session_id"] = session_id;
@@ -25,8 +27,8 @@ class App extends Component {
   handleLogOut = () => {
     const { common } = Axios.defaults.headers;
 
-    Cookies.remove("email");
-    Cookies.remove("session_id");
+    localStorage.remove("email");
+    localStorage.remove("session_id");
 
     delete common["email"];
     delete common["session_id"];
@@ -36,8 +38,8 @@ class App extends Component {
 
   checkedLoggedIn() {
     return (
-      Cookies.get("email") !== undefined &&
-      Cookies.get("session_id") !== undefined
+      localStorage.get("email") !== null &&
+      localStorage.get("session_id") !== null
     );
   }
 
@@ -47,7 +49,7 @@ class App extends Component {
     return (
       <div className="app">
         <NavBar handleLogOut={this.handleLogOut} loggedIn={loggedIn} />
-        <Content handleLogIn={this.handleLogIn} />
+        <Content handleLogin={this.handleLogin} />
       </div>
     );
   }

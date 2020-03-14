@@ -1,7 +1,7 @@
 import Axios from "axios";
-import Cookies from "js-cookie";
-
 import Config from "../Config.json";
+
+const localStorage = require("local-storage");
 
 const { baseUrl, pollLimit, gatewayEPs } = Config;
 
@@ -14,7 +14,8 @@ const HTTPMethod = Object.freeze({
 function initSocket() {
   const { common } = Axios.defaults.headers;
 
-  common["session_id"] = Cookies.get("session_id");
+  common["email"] = localStorage.get("email")
+  common["session_id"] = localStorage.get("session_id");
 
   Axios.defaults.baseURL = baseUrl;
 }
@@ -47,11 +48,10 @@ async function sendHTTP(method, path, data) {
     default:
     // Should never reach here
   }
-
   /************************************************
         TODO Do error checking on response 
   ************************************************/
-
+  // check status is 
   return await getReport(response);
 }
 
@@ -68,7 +68,7 @@ async function pollForReport(axiosConfig) {
 
   for (let i = 0; i < pollLimit; i++) {
     const response = await Axios.get(gatewayEPs.reportEP, axiosConfig);
-
+    console.log("CHECK THIS: " + response)
     if (response.status !== noContent) {
       /************************************************
             TODO More Robust checking for response  
@@ -77,7 +77,7 @@ async function pollForReport(axiosConfig) {
       return response;
     } else await timeOut();
   }
-
+  console.log("WHY")
   return undefined;
 }
 

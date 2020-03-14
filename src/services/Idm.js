@@ -12,6 +12,18 @@ async function login(email, password) {
   return await Socket.POST(loginEP, payLoad);
 }
 
+const { registerEP } = idmEPs;
+
+async function register(email, password) {
+  const payLoad = {
+    email: email,
+    password: password.split("")
+  };
+
+  return await Socket.POST(registerEP, payLoad);
+}
+
 export default {
-  login
+  login,
+  register
 };
