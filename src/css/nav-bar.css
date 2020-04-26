@@ -4,16 +4,16 @@
 
   width: calc(100vw - 10px);
   height: 50px;
-  padding: 5px;
+  padding: 20px;
 
   background-color: var(--detail-color);
 }
 
 .nav-link {
-  padding: 10px;
-  font-size: 25px;
+  padding: 5px;
+  font-size: 40px;
   color: var(--detail-font-color);
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .nav-button {

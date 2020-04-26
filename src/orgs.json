@@ -1,0 +1,292 @@
+{
+    {
+        name: "WHO (World Health Organization)",
+        url: "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/donate",
+        shortDescription: "The World Health Organization (WHO) is leading and coordinating the global effort, supporting countries to prevent, detect, and respond to the pandemic.",
+        description:"The world is facing an unprecedented challenge with communities and economies everywhere affected by the growing COVID-19 pandemic. The world is coming together to combat the COVID-19 pandemic bringing governments, organizations from across industries and sectors and individuals together to help respond to this global outbreak. The outpouring of global solidarity and support sparked by this shared challenge has been phenomenal. The Strategic Preparedness and Response Plan outlines a funding need of at least US$675 million for critical response efforts in countries most in need of help through April 2020. As this outbreak evolves, funding needs are likely to increase.",
+        year: 1948,
+        location: "Geneva, Switzerland"
+    },
+    {
+        name: "Feeding America",
+        url: "https://www.feedingamerica.org/",
+        shortDescription: "Food banks are responding to COVID-19 by doing what they do best – feeding people in need. You can help.",
+        description: "In a country that wastes billions of pounds of food each year, it's almost shocking that anyone in America goes hungry. Yet every day, there are millions of children and adults who do not get the meals they need to thrive. We work to get nourishing food – from farmers, manufacturers, and retailers – to people in need. At the same time, we also seek to help the people we serve to build a path to a brighter, food-secure future. For more than 40 years, Feeding America has responded to the needs of individuals struggling with food insecurity in this country. In times of uncertainty, we have not wavered from our mission to end the fight against hunger.",
+        year: 1979,
+        location: "Chicago, IL"
+    },
+    {
+        name: "Team Rubicon",
+        url: "Team Rubicon",
+        shortDescription: "Team Rubicon is built to serve, and in response to the COVID-19 outbreak, we’ve launched the #NeighborsHelpingNeighbors initiative to meet the needs of our communities through safe individual acts of service.",
+        description: "There is no playbook for this situation, but action is the only option. Team Rubicon is currently serving in communities across the country providing assistance such as delivery service for food-insecure populations, coordination and logistics support for those in temporary quarantine, as well as individual volunteers safely helping their neighbors. These operations will continue to evolve as we navigate a new normal.",
+        year: 2010,
+        location: "Los Angeles, CA"
+    },
+    {
+        name: "Doctors Without Borders",
+        url: "https://www.doctorswithoutborders.org/",
+        shortDescription: "A key priority is to keep our regular medical programs running for the tens of thousands of patients and extremely vulnerable communities we help support around the world."
+        description: "We must be able to receive people with COVID-19 while making sure that no one is consequently infected in our structures, including other patients as well as staff. We need to ensure that we can continue to provide lifesaving medical care in our ongoing projects. So far, teams are able to continue medical activities, but securing future supplies of key items—such as surgical masks, swabs, gloves, and chemicals used to diagnose COVID-19—is a matter of concern. There is also a risk of supply shortages due to a lack of production of generic drugs and difficulties to import essential drugs (such as antibiotics and antiretroviral drugs) caused by lockdowns, reduced production of basic products, exportation stops, or the repurposing and stocking of drugs and material for COVID-19. MSF teams are also preparing for potential cases of COVID-19 in our projects. Protecting patients and health care workers affected by the pandemic is essential. In places where there is a higher chance of cases, this means ensuring that infection prevention and control measures are in place, setting up screening at triage, maintaining isolation areas, and providing health education. In most countries where MSF works, we are coordinating with the WHO and the respective Ministries of Health to see how MSF could help in case of a high load of COVID-19 patients. We are also providing training on infection control for health facilities.",
+        year: 1971,
+        location: "Geneva, Switzerland"
+    },
+    {
+        name: "Half-Table Man",
+        url: "https://www.facebook.com/Halftableman/posts/1568851563279019",
+        shortDescription: "We are currently providing disaster relief for COVID-19 in New York City. This is an ongoing effort to provide PPE (personal protective equipment) to medical staff, and food, clothing, and shelter to those affected.",
+        description: "Half-table man disaster assistance relief is organized exclusively for charitable purposes under section 501 (c) (3) code to aid persons and pets affected by natural disasters in the United States, in need of food, clothing, shelter, medical attention and basic household supplies, providing individuals and pets with food, clothing, shelter, medical attention and basic household supplies, or funds for such items.",
+        year: 2014,
+        location: "Staten Island, NY"
+    },
+    {
+        name: "Oxfam",
+        url: "https://www.oxfamamerica.org/explore/emergencies/coronavirus-crisis-how-to-help/",
+        shortDescription: "Here in the US, we know low-wage workers have few resources to weather a disaster like this. That’s why we are calling on federal and state legislators to urgently provide for paid sick leave, free coronavirus testing, and food assistance for low-income families and children.",
+        description: "We are deeply concerned about the impact of COVID-19 on countries with weaker health systems–places where people are already facing multiple threats to their health and livelihood. We are especially worried about the disease hitting countries that are already experiencing a humanitarian crisis, or in camps for refugees and internally displaced people, where people already struggle to access clean water, nutritious food, health care, safe shelter, and other basics that could help protect them from the disease. The impact could be devastating in crowded camps and urban areas. We are working with our partners, government health ministries, and key UN agencies in more than 50 countries to determine how best to respond to the crisis (despite limitations on travel in some areas), especially given our expertise in public health, water, and sanitation. Many of our staff and partners are increasing the delivery of soap, clean water, and sanitation services, including building and upgrading hand-washing facilities with a special focus on people in higher-risk areas and at health facilities.",
+        year: 1970,
+        location: "Washington, DC"
+    },
+    {
+        name: "World Central Kitchen",
+        url: "https://wck.org/chefsforamerica",
+        shortDescription: "WCK is working across America to safely distribute individually packaged, fresh meals in communities that need support – for children and families to pick up and take home, as well as delivery to seniors who cannot venture outside.",
+        description: "WCK is now active in dozens of cities providing nearly 200,000 fresh meals every day. Traditional safety nets like school feeding programs, city services, and food banks are struggling to meet basic needs. Seniors, who are isolated for their safety, are unable to access meal services. Meanwhile, the country’s hospital workers are more stretched than ever before. WCK is also now activating restaurants to help meet this demand by providing jobs for their staff and meals for those in need. #ChefsForAmerica is making a key connection between people who need meals and restaurant workers and drivers who need to earn a living.",
+        year: 2010,
+        location: "Washington, DC"
+    },
+    {
+        name: "Unicef",
+        url: "https://www.unicefusa.org/?utm_campaign=20200323_Emergencies&utm_medium=cpc&utm_source=google&utm_content=corona4&ms=cpc_dig_2020_Emergencies_20200323_google_corona4_delve_none&initialms=cpc_dig_2020_Emergencies_20200323_google_corona4_delve_none&gclid=CjwKCAjwv4_1BRAhEiwAtMDLsvTnuRNfWocdBkhStFwCajubMF1g70NJrt2fbgF9QnmFCFjZobBN4RoCfNsQAvD_BwE",
+        shortDescription: "UNICEF is on the front lines, fighting the novel coronavirus with supplies, support and lifesaving information.",
+        description: "The coronavirus disease (COVID-19) pandemic has upended the lives of children and their families as health systems buckle, borders close, and schools and businesses shutter. As COVID-19 has spread, so has misinformation – fueling discrimination and stigma. UNICEF is working with health experts to promote facts over fear, and bringing trustworthy guidance to parents, caregivers and educators. We’re on the ground in more than 190 countries, partnering with front-line responders to keep children healthy and learning, protected from sickness and violence, no matter who they are or where they live.",
+        year: 1946,
+        location: "New York, NY"
+    },
+    {
+        name: "Samaritan’s Purse",
+        url: "https://www.samaritanspurse.org/our-ministry/coronavirus-donate/?utm_source=Ggl&utm_medium=cpc&utm_campaign=m_YGCV-N20V&utm_content=ItalyResponse&gclid=CjwKCAjwv4_1BRAhEiwAtMDLstvEGWrEeXRDGu9yNPvihsYIcQ96nrigduR32agY5_bx4wbhZt8eVBoCYXsQAvD_BwE",
+        shortDescription: "Samaritan’s Purse has opened an Emergency Field Hospital in New York City's Central Park to treat coronavirus patients. We're also operating a similar respiratory care unit in Cremona, Italy.",
+        description: "The United States has the highest number of active COVID-19 cases in the world, and we're working in New York City, at the epicenter of the outbreak in the U.S. where many local medical facilities are overwhelmed. Samaritan’s Purse now has dozens of disaster relief specialists, including doctors, nurses, and other medical personnel, on the ground in the city. Cremona is one of the worst affected communities in northern Italy, the center of the outbreak in Europe. We established our field hospital there on March 20, and our team of medical professionals and others are serving in Jesus' Name to bring comfort and the hope of Christ to hurting people.",
+        year: 1970,
+        location: "Boone, NC"
+    },
+    {
+        name: "International Rescue Committee",
+        url: "https://www.rescue.org/topic/coronavirus-response?ms=gs_ppc_ye20_w_191118&initialms=gs_ppc_ye20_w_191118&gclid=CjwKCAjwv4_1BRAhEiwAtMDLst7Rhv-P-vOXZhsZAPyeCu9M_P_8s4JwUI5gAI-1Csur4t5vxSpqJxoCLHcQAvD_BwE",
+        shortDescription: "As the novel coronavirus continues to spread globally, people living in crisis will be hit hardest. The International Rescue Committee is scaling up our response to the pandemic, providing lifesaving programs to vulnerable communities in over 40 countries worldwide, including the United States.",
+        description: "Countries in crisis such as Syria, Yemen and South Sudan face a double emergency as COVID-19's health effects are coupled with escalations in conflict and political and economic instability provoked by the outbreak. The scale, severity and speed of the COVID-19 outbreak will be magnified in fragile countries, says IRC president and CEO David Miliband of the report's findings. The double crisis needs a double response. First, immediate activity to prevent the spread of the disease is imperative, Miliband says. Without handwashing facilities, the disease takes root—and without effective triaging of people it runs rife. Second, the weakest links in the global health chain are a threat to health everywhere. We must strengthen prevention efforts in war-torn countries and ensure refugees and other vulnerable people are not left behind.",
+        year: 1933,
+        location: "New York, NY"
+    },
+    {
+        name: "World Vision"
+        url: "https://donate.worldvision.org/give/covid19-us",
+        shortDescription: "World Vision is working hand in hand with churches and school districts to deliver essentials to the most vulnerable children and families.",
+        description: "We are raising $10 million for this critical U.S. response to the COVID-19 pandemic. From 14 strategic locations across the nation, we’re providing 650,000 people with Family Emergency Kits containing food for a family of five, protective items like hand sanitizer and disinfectant wipes, and other desperately needed essentials.  Schools often provide the primary meals for vulnerable children, and these kits help fill the void left by school closures.",
+        year: 1950,
+        location: "Uxbridge, United Kingdom"
+        
+    },
+    {
+        name: "The Salvation Army",
+        url: "https://www.salvationarmyusa.org/usn/covid19/",
+        shortDescription: "In the United States, one in six people live in poverty, and more than 550,000 are counted as homeless. These populations severely lack access to proper care, hygiene, updated information, and medical resources, which makes them more susceptible to the virus. This is where we come in. This is who we serve.",
+        description: "We are working with local, state, and federal government and health authorities, including participating in situation awareness calls with federal partners like FEMA, CDC, DHS, and HHS. We are developing new hygiene and cleaning protocols to help keep safe our residents and others who depend on The Salvation Army’s programs and services to survive. In addition, all staff, volunteers, and program participants have been sent hygiene and prevention information as recommended by the CDC. Meanwhile, our local divisions will continue to work in close partnership with area government and health experts to prepare and respond to meet specific community needs of 23 million individuals we serve each year and the more than 63,000 employees of our organization. We will continue to update this page as developments warrant. We need support from our communities to continue to meet the daily needs of these vulnerable populations. Your donations will continue to help us respond to the situation.",
+        year: 1865,
+        location: "London, United Kingdom"
+        
+    },
+    {
+        name: "Meals on Wheels",
+        url: "https://www.mealsonwheelsamerica.org/",
+        shortDescription: "Vulnerable seniors are at the greatest risk amid COVID-19. Local Meals on Wheels programs are on the front lines every day, focused on doing all they can to keep older Americans safe and nourished in communities across the country.",
+        description: "The costs and efforts needed to protect seniors from COVID-19 require additional emergency funds, and that is why we are asking federal lawmakers, corporations, foundations and the general public to remember these vulnerable seniors in our national response. Give to the Meals on Wheels COVID-19 Response Fund to ensure local communities have what they need to continue to deliver a vital lifeline to our most at-risk Americans.",
+        year: 1953,
+        location: "Arlington, VA"
+        
+    },
+    {
+        name: "World Food Program",
+        url: "https://secure.wfpusa.org/donate/homepage-form?ms=2002__Google_SRCH",
+        shortDescription: "Your gift could be the difference between a child going to bed hungry or eating a nutritious meal.",
+        description: "WFP does whatever it takes to deliver lifesaving food to children and families most in need, wherever they are in the world, by providing meals in schools, distributing staples during emergencies and delivering food vouchers in conflict zones. It’s easy for you to make a lifesaving difference. $75 can provide a family with a WFP emergency box — which contains enough food for an entire month.",
+        year: 1961,
+        location: "Rome, Italy"
+        
+    },
+    {
+        name: "American Kidney Fund",
+        url: "https://secure2.convio.net/akf/site/Donation2?df_id=6401&6401.donation=form1&mfc_pref=T&gclid=CjwKCAjwv4_1BRAhEiwAtMDLsoFYNm0P9sYdASQ4HpgR6I50ItgTKIwo8rPkkYd_SLdlHmHOHyUDWhoCXgwQAvD_BwE",
+        shortDescription: "100% of donations to the AKF Coronavirus Emergency Fund will be used to assist low-income dialysis and transplant patients who are affected by the COVID-19 pandemic.",
+        description: "Every day, we receive over 150 requests to our Coronavirus Emergency Fund. Please give generously so we can connect each one with the medicines, kidney-friendly foods, and transportation to dialysis that they need to survive!",
+        year: 1971,
+        location: "Bethesda, MD"
+        
+    },
+    {
+        name: "St. Jude Children's Research Hospital",
+        url: "https://www.stjude.org/give/donate-to-childhood-cancer-and-research.html?sc_dcm=254910812&sc_cid=kwp75674&source_code=IIQ190721002&gclid=CjwKCAjwv4_1BRAhEiwAtMDLsr9MxUjOjhM5UH6AAvPr4EXpIt174eqS2_RKIxyUlnTESZvzOCgsYxoCDacQAvD_BwE"
+        shortDescription: "When you donate monthly, you'll be a St. Jude Partner In Hope, meaning you're part of a special community who is committed to saving children with cancer and other life-threatening diseases.",
+        description: "These challenging times remind us how much it means to St. Jude families that supporters like you are with them as their precious children make difficult journeys toward hope and healing. Your love and generosity for the children mean so much to St. Jude, now more than ever. That’s what allows us to continue to provide cutting-edge care and invest in research so we can eradicate these awful diseases.",
+        year: 1962,
+        location: "Memphis, TN"
+        
+    },
+    {
+        name: "No Kid Hungry",
+        url: "https://secure.nokidhungry.org/site/Donation2?df_id=17568&mfc_pref=T&17568.donation=form1&s_src=googlemain&s_subsrc=204HADN1&utm_source=google&utm_medium=cpc&utm_campaign=2020_covid&utm_term=paid",
+        shortDescription: "America’s kids need us. The coronavirus is closing schools nationwide, and millions of vulnerable children are losing the school meals they depend on.",
+        description: "For some, it’s the only food they’ll receive in a given day. We have a plan to feed kids, but we need your help today to continue our work to ensure every kid gets three meals a day. Donations made through this page support Share Our Strength's entire mission and will not be designated to a specific campaign or location. Your gift will be used where it is needed most.",
+        year: 1984,
+        location: "Washington, DC"
+        
+    },
+    {
+        name: "City Meals",
+        url: "https://www.citymeals.org/support-us/donate-now?utm_campaign=fy20spring&utm_medium=website&utm_source=2003WWSG0100&origin=2003WWSG0100",
+        shortDescription: "As the designated emergency responder for New York City’s seniors, Citymeals is delivering 450,000 meals in response to the Coronavirus outbreak.",
+        description: "Help us guarantee a continuous lifeline of nourishing meals during this crisis – more than 18,000 homebound elderly New Yorkers are relying on your generosity. Every gift will be matched dollar for dollar thanks to FJC - A Foundation of Philanthropic Funds.",
+        year: 1981,
+        location: "New York, NY"
+        
+    },
+    {
+        name: "Seattle Foundation",
+        url: "https://connect.clickandpledge.com/w/Form/0b60edb4-7f83-40c7-862a-e66b2618a2ec",
+        shortDescription: "Housed at Seattle Foundation, the Fund makes grants to nonprofits that are working on the frontlines to provide our region's most vulnerable communities with emergency assistance, such as financial support, healthcare, and childcare.",
+        description: "Formed by a coalition of philanthropy, government, and business partners, the COVID-19 Response Fund so far has galvanized a total of $20.1 million from a growing list of partners and online contributors. The Fund complements the work of public health officials and expands local capacity to address the many needs created by the coronavirus crisis. In order to move resources quickly without further burdening organizations providing critical services and support, we are not hosting a formal application process at this time. Seattle Foundation is administering grants from the Fund in partnership with United Way of King County, King County’s Pandemic Community Advisory Group, and Fund partners. Grants are made on a rolling basis. As fundraising continues through the outbreak and recovery phases of the crisis, the Fund will adapt to emerging needs as the situation evolves.",
+        year: 1946,
+        location: "Seattle, WA"
+        
+    },
+    {
+        name: "CDC Foundation"
+        url: "https://give4cdcf.org/?utm_source=CDCF&utm_medium=web&utm_campaign=combat-coronavirus",
+        shortDescription: "In a state of emergency, it takes a world—ALL OF US—join our new crowdfunding campaign at give4cdcf.org to combat coronavirus. Join with us to give, share and unite to make an impact.",
+        description: "Your donation to the CDC Foundation is funding medical supplies, increasing lab capacity, deploying emergency staffing to U.S. public health agencies, providing support to vulnerable communities, addressing health communication needs, boosting clinical research to improve health outcomes, building capacity and infrastructure for global response efforts, and much more.",
+        year: 1994,
+        location: "Atlanta, GA"
+        
+    },
+    {
+        name: "Center for Disaster Philanthropy",
+        url: "https://disasterphilanthropy.org/donate-to-the-cdp-covid-19-response-fund/",
+        shortDescription: "Help CDP support preparedness, containment efforts, response and recovery activities for those affected by COVID-19 and for the responders.",
+        description: "Visit website for more information",
+        year: 2010,
+        location: "Washington, DC"
+        
+    },
+    {
+        name: "Global Giving",
+        url: "https://www.globalgiving.org/projects/coronavirus-relief-fund/",
+        shortDescription: "The COVID-19 pandemic marks an unprecedented time in modern history that will require the best of humanity to overcome. Your donation to this fund will support immediate and long-term relief and recovery in vulnerable communities during one of the most challenging times we have collectively faced.",
+        description: "This crisis threatens everyone's way of life, but it is especially difficult for people who are already vulnerable, including those with pre-existing medical conditions, older adults, individuals experiencing homelessness, refugees and migrants, wage workers, and those with inflexible jobs. Your donation to this fund will help stop the virus's spread and give communities on the front lines of the crisis the resources they need to act quickly and protect the most vulnerable.",
+        year: 2002,
+        location: "Washington, DC"
+        
+    },
+    {
+        name: "Blessings in a Backpack",
+        url: "https://www.blessingsinabackpack.org/covid-19-response-effort/",
+        shortDescription: "This is the question we are continually asking at Blessings in a Backpack. Why? While most people can’t wait for the weekend, kids at risk of hunger can’t wait for it to be over. In fact, 11 million kids in America won’t have enough food to eat this weekend.",
+        description: "he current public health emergency has highlighted just how vulnerable these 11 million food-insecure children are. Typically, these kids rely on the food that schools provide during the week and Blessings in a Backpack food on the weekends. The school closures have changed this arrangement. Accordingly, we’ve had to adjust our traditional question. We’re now asking: Who will feed the kids when schools are closed? We are hoping that you will choose to answer, “I will” to ensure these kids are fed during this emergency and when they return to school. Help Blessings in a Backpack continue to feed kids during this public health emergency. As little as $4 provides a Blessings bag of food to a child facing food insecurity now and when kids return to school.",
+        year: 2005,
+        location: "Louisville, KY"
+        
+    },
+    {
+        name: "Baby2Baby",
+        url: "https://baby2baby.org/",
+        shortDescription: "BABY2BABY provides children living in poverty, ages 0-12 years, with diapers, clothing and all the basic necessities that every child deserves.",
+        description: "Baby2Baby has been working around the clock to provide essential items like diapers, wipes, formula, blankets, hygiene items, school supplies and more to children impacted by COVID-19. Thank you for your help in supporting families in need during this unprecedented situation.",
+        year: 2012,
+        location: "Los Angeles, CA"
+        
+    },
+    {
+        name: "International Medical Corps",
+        url: "https://internationalmedicalcorps.org/emergency-response/covid-19/",
+        shortDescription: "Working with the WHO, International Medical Corps is leveraging its relationships with local and national ministries of health globally to provide expertise, equipment, training, and triage and treatment services.",
+        description: "We have designed a multi-pronged approach to ensure that at-risk countries and regions are able to prepare for and respond to potential outbreaks of coronavirus. Priority response activities include: 1) Training and Capacity Building to Protect Frontline Health Workers and Staff 2) Prepositioning and Deploying Medicines and Supplies, including Personal Protective Equipment 3) Deployment of Screening and Triage Stations, and Case Management 4) Community Outreach and Engagement 5) Epidemic Response Team",
+        year: 1984,
+        location: "Los Angeles, CA"
+        
+    },
+    {
+        name: "DirectRelief",
+        url: "https://www.directrelief.org/emergency/coronavirus-outbreak/",
+        shortDescription: "Direct Relief working in overdrive to get protective gear and critical care medications to as many health workers as possible, as quickly as possible, with emergency deliveries leaving daily for medical facilities across the U.S.",
+        description: "Direct Relief is coordinating with public health authorities, nonprofit organizations and businesses in the U.S. and globally to provide personal protective equipment and essential medical items to health workers responding to coronavirus (COVID-19). Direct Relief is also staging personal protective equipment with regional response agencies across the world, including in the Caribbean and South America through the Pan American Health Organization.",
+        year: 1948,
+        location: "Santa Barbara, CA"
+        
+    },
+    {
+        name: "Frontline Responders Fund",
+        url: "https://www.gofundme.com/f/frontlinerespondersfund",
+        shortDescription: "Currently, Flexport.org is focusing all our resources on getting critical supplies to frontline responders combating COVID-19. ",
+        description: "Here’s the problem: There’s a shortage of masks, gowns, gloves and other critical supplies to protect our medical professionals in hospitals across the world. If a member of hospital staff catches the virus, their health is at serious risk, and they cannot work for at least 14 days. That’s a major problem. We need to protect frontline responders. More responders on the frontline means more capacity at our hospitals, and more people will get the care they need. 'Our doctors, nurses and hospital staff are the real action heroes of this crisis. I just play one in the movies. We have an opportunity and a responsibility to provide them with personal protective equipment right now to keep them safe as they fight this virus, so when I heard about Flexport.org’s plan, this was a no-brainer to me,' said Arnold Schwarzenegger. 'With all of the courageous work they are doing on the frontlines to keep us safe, buying a few hundred thousand masks with a million dollars is the least I can do. Please take a moment to join me in supporting our heroes.'Nearly every major international company on the planet who can help is working on this specific problem or has offered their support. Unfortunately, there is a lot more work to do.",
+        year: 2020,
+        location: "United States"
+        
+    },
+    {
+        name: "United Way",
+        url: "https://www.unitedway.org/recovery/covid19?utm_source=fundpage&utm_medium=web&utm_campaign=covid19&utm_content=learnmore",
+        shortDescription: "Your generosity will help families and people in need access critical information and services like food, shelter, and more through our United Way network. 95% of your donation will provide relief to those left vulnerable by the pandemic.",
+        description: "During times of uncertainty and crisis, people come together to support one another. COVID-19 is a test of our collective strength. As millions are on lockdown and businesses are closing, unemployment is spiking. Feeding the kids, making the rent and keeping the lights on is tougher for many of us than ever before. United Way Worldwide's COVID-19 Community Response and Recovery Fund supports communities by helping local United Ways respond, and by ensuring people get accurate information. 211, the go-to information resource in the U.S., is fielding 200-400% more calls than normal, mostly for food, financial assistance and housing. We expect as many calls for help in the next six months as we usually get in a full year. At the same time, community services are strained and unable to meet demand. People are hurting.",
+        year: 1887,
+        location: "Alexandria, VA"
+        
+    },
+    {
+        name: "Restaraunt Workers' Community Foundation",
+        url: "https://secure.restaurantworkerscf.org/np/clients/restaurantworkerscf/donation.jsp?campaign=2&forwardedFromSecureDomain=1&test=true",
+        shortDescription: "RWCF COVID-19 Emergency Relief Fund",
+        description: "The RCWF Board of Directors has approved directing funds raised during this crisis to be allocated in the following ways: 50% FOR DIRECT RELIEF TO INDIVIDUAL RESTAURANT WORKERS, 25% FOR NON-PROFIT ORGANIZATIONS SERVING RESTAURANT WORKERS IN CRISIS, 25% FOR ZERO-INTEREST LOANS FOR RESTAURANTS TO GET BACK UP AND RUNNING",
+        year: 2018,
+        location: "New York, NY"
+        
+    },
+    {
+        name: "One Fair Wage Emergency Fund",
+        url: "https://ofwemergencyfund.org/",
+        shortDescription: "Restaurant workers, gig workers and other hourly workers are facing unprecedented economic hardship from the coronavirus crisis.  It’s our turn to serve them.",
+        description: "Tipped workers and other service workers were already struggling.  In this crisis, they need our help. We’re providing cash assistance to restaurant workers, car service drivers, delivery workers, personal service workers and more who need the money they aren’t getting to survive.  Please help!",
+        year: 2004,
+        location: "N/A"
+        
+    },
+    {
+        name: "Giving Kitchen",
+        url: "https://connect.clickandpledge.com/w/Form/d11bff52-0cd0-44d8-9403-465614e4f342",
+        shortDescription: "Giving Kitchen provides emergency assistance to food service workers through financial support and a network of community resources.",
+        description: "Visit website for more information",
+        year: 2013,
+        location: "Metro Atlanta, GA"
+        
+    },
+    {
+        name: "SACHR",
+        url: "https://sachr.org/donate/",
+        shortDescription: "We welcome you to join us in our mission of harm reduction. Your gift will go a long way to providing meals, therapy, clean syringes, and other critical resources to the community we serve. We thank you for becoming a force for improving the safety and quality of life of our participants.",
+        description: "Visit website for more information",
+        year: 1990,
+        location: "Vienna, Austria"
+        
+    },
+    {
+        name: "Navajo Nation Covid-19 Relief Fund",
+        url: "http://www.nndoh.org/donate.html",
+        shortDescription: "The Navajo Nation COVID-19 Fund has been established to help the Navajo Nation respond to the COVID-19 pandemic. This is the Navajo Nation’s only official COVID-19 fundraising and donation effort.",
+        description: "The Navajo Nation is accepting monetary and non-monetary donations to address immediate medical and community needs. Charitable donations to the Navajo Nation are deductible by the donor for federal income, estate, and gift tax purposes The Navajo Nation’s Health Command Center has established a Donation Branch to coordinate donations to the Nation. Attorney General Doreen N. McPaul serves as the Donation Branch Chief, and she has tasked the Department of Justice to staff this effort and respond to donation inquiries. Monetary donations are coordinated with the Navajo Nation Office of the Controller and non-monetary donations are coordinated with the Health Command Center’s Operations and Logistics Sections, depending on the type of donation, quantity, and delivery date. All donations are documented on an ICS 213 form for FEMA reporting purposes and to ensure compliance with tribal law.",
+        year: 2020,
+        location: "Navajo Nation, NM"
+        
+    }
+}
+
+
+

@@ -1,8 +1,8 @@
 .nav-link {
   padding: 10px;
-  font-size: 25px;
+  font-size: 2px;
   color: var(--detail-font-color);
-  text-decoration: none;
+  text-decoration: double;
 }
 
 .nav-button {

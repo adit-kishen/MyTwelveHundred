@@ -27,6 +27,23 @@ class App extends Component {
   handleLogOut = () => {
     const { common } = Axios.defaults.headers;
 
+    console.log("HANDLE LOGOUT CALLED")
+    // let email = common["email"];
+    // let id = common["session_id"];
+
+    // console.log(email);
+    // console.log(id);
+
+    // Idm.logout(email, id)
+    //   .then(response => {
+    //     alert(JSON.stringify(response.data, null, 4))
+    //     console.log(response);
+    //     let resultCode = response.data.resultCode;
+    //     resultCode == JSON.stringify(121) && this.props.history.push("/login")
+    //   })
+    //   .catch(error => console.log(error));
+
+
     localStorage.remove("email");
     localStorage.remove("session_id");
 
@@ -48,8 +65,8 @@ class App extends Component {
 
     return (
       <div className="app">
-        <NavBar handleLogOut={this.handleLogOut} loggedIn={loggedIn} />
-        <Content handleLogin={this.handleLogin} />
+        {/* <NavBar/> */}
+        <Content />
       </div>
     );
   }

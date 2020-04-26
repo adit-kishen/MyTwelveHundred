@@ -68,7 +68,7 @@ async function pollForReport(axiosConfig) {
 
   for (let i = 0; i < pollLimit; i++) {
     const response = await Axios.get(gatewayEPs.reportEP, axiosConfig);
-    console.log("CHECK THIS: " + response)
+    console.log("CHECK THIS RESPONSE: " + response.status)
     if (response.status !== noContent) {
       /************************************************
             TODO More Robust checking for response  
@@ -83,7 +83,7 @@ async function pollForReport(axiosConfig) {
 
 async function timeOut() {
   return new Promise(resolve => {
-    let pollingLimit = 100;
+    let pollingLimit = 300;
     setTimeout(() => resolve(), pollingLimit);
   });
 }
